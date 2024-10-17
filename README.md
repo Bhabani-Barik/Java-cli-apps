@@ -1,2 +1,2 @@
 # Java-cli-apps
-# 01. Banking CLI Application
+## 01. Banking CLI Application
