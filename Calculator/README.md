@@ -1,4 +1,4 @@
-##Java Project :: Simple Calculator
+#Java Project :: Simple Calculator
 The Simple Calculator project allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The user inputs two numbers and selects an operation, and the calculator processes the input to return the result. It handles basic mathematical calculations and can be extended to include additional features like error handling (e.g., division by zero) or supporting more advanced operations like exponentiation or modulus.
 
 Here are two different solutions for the Simple Calculator project in Java.
